@@ -3,7 +3,7 @@
 
 <table>
         <tr>
-            <td width="300px"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*eUXv1_yEOoEiyR9S" alt="thumbnail"></td>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F081qvi7mj4kikk2ggec7.jpg" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/emotta/user-authentication-with-javascript-and-express-a-practical-guide-3ni2">User Authentication with JavaScript and Express: A Practical Guide</a>
                 <div>Authentication is a critical aspect of building secure web applications that require user...</div>
@@ -11,7 +11,7 @@
             </td>
         </tr>
         <tr>
-            <td width="300px"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*m2IzpR31-9aFo6ROaTwJSw.jpeg" alt="thumbnail"></td>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu1o5j54hk3pqbwnqggug.jpg" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/emotta/pandas-code-testing-101-a-beginners-guide-for-python-developers-449m">Pandas Code Testing 101: A Beginner’s Guide for Python Developers</a>
                 <div>Testing is a crucial step in software development. Every programming language has a myriad of tools...</div>
@@ -19,7 +19,7 @@
             </td>
         </tr>
         <tr>
-            <td width="300px"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*poaGV4iICp06Q-yTlA2g_g.png" alt="thumbnail"></td>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi3sfpinzmdfadf80h6xq.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/emotta/how-to-use-firestore-with-redux-in-a-react-application-13bh">Maximize Your React Skills: Build a To-Do List App from...</a>
                 <div>In this blog post we’re going to go through everything you need to understand and build a basic React...</div>
