@@ -7,7 +7,7 @@
             <td>
                 <a href="https://dev.to/emotta/scaling-data-systems-how-we-process-millions-of-records-with-python-1ib9">Scaling data systems: How we process millions of records with Python</a>
                 <div>Most people assume scaling data systems is just about performance. It's not. Processing millions...</div>
-                <div><i>04/05/2023</i></div>
+                <div><i>04/05/2026</i></div>
             </td>
         </tr>
         <tr>
