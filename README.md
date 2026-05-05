@@ -3,6 +3,14 @@
 
 <table>
         <tr>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fllrrbmswf2c7rdsawaow.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/emotta/scaling-data-systems-how-we-process-millions-of-records-with-python-1ib9">Scaling data systems: How we process millions of records with Python</a>
+                <div>Most people assume scaling data systems is just about performance. It's not. Processing millions...</div>
+                <div><i>04/05/2023</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F081qvi7mj4kikk2ggec7.jpg" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/emotta/user-authentication-with-javascript-and-express-a-practical-guide-3ni2">User Authentication with JavaScript and Express: A Practical Guide</a>
