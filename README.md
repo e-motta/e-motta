@@ -3,6 +3,14 @@
 
 <table>
         <tr>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt164vxey0hs1rnc9e1j.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/emotta/scaling-data-systems-where-things-start-to-break-8gn">Scaling data systems: Where things start to break</a>
+                <div>In a previous post, I described an architecture that processes millions of records per hour using Python, Kafka, PySpark, and Kubernetes...</div>
+                <div><i>04/05/2026</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fllrrbmswf2c7rdsawaow.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/emotta/scaling-data-systems-how-we-process-millions-of-records-with-python-1ib9">Scaling data systems: How we process millions of records with Python</a>
@@ -32,22 +40,6 @@
                 <a href="https://dev.to/emotta/how-to-use-firestore-with-redux-in-a-react-application-13bh">Maximize Your React Skills: Build a To-Do List App from...</a>
                 <div>In this blog post we’re going to go through everything you need to understand and build a basic React...</div>
                 <div><i>25/01/2023</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/emotta/how-to-use-firestore-with-redux-in-a-react-application-44g7">How to use Firestore with Redux in a React application</a>
-                <div>You’re using Firebase as your backend-as-a-service platform, with Firestore holding your data....</div>
-                <div><i>09/01/2023</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/emotta/building-a-react-application-wheres-wally-1lo4">Building a React application: &#34;Where&#39;s Wally?&#34;</a>
-                <div>I&#39;ve been working as a fullstack (mostly backend) developer for a little more than a year now.  I&#39;m...</div>
-                <div><i>02/01/2023</i></div>
             </td>
         </tr>
 </table>
