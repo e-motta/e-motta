@@ -7,7 +7,7 @@
             <td>
                 <a href="https://dev.to/emotta/scaling-data-systems-where-things-start-to-break-8gn">Scaling data systems: Where things start to break</a>
                 <div>In a previous post, I described an architecture that processes millions of records per hour using Python, Kafka, PySpark, and Kubernetes...</div>
-                <div><i>04/05/2026</i></div>
+                <div><i>10/05/2026</i></div>
             </td>
         </tr>
         <tr>
