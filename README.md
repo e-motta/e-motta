@@ -1,45 +1,45 @@
-### My articles on [dev.to](https://dev.to/emotta):
+### My articles on [eduardomotta.dev](https://www.eduardomotta.dev):
 
 
 <table>
         <tr>
-            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt164vxey0hs1rnc9e1j.png" alt="thumbnail"></td>
+            <td width="300px"><img src="https://www.eduardomotta.dev/images/posts/building-predictable-software-with-ai-agents/01.png" alt="thumbnail"></td>
             <td>
-                <a href="https://dev.to/emotta/scaling-data-systems-where-things-start-to-break-8gn">Scaling data systems: Where things start to break</a>
-                <div>In a previous post, I described an architecture that processes millions of records per hour using Python, Kafka, PySpark, and Kubernetes...</div>
+                <a href="https://www.eduardomotta.dev/posts/building-predictable-software-with-ai-agents">Building Predictable Software with AI Agents</a>
+                <div>AI coding agents have made it possible to scaffold applications, explore unfamiliar codebases, and ship features faster than ever. But speed without s...</div>
+                <div><i>20/06/2026</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="https://www.eduardomotta.dev/images/posts/pushdown-queries-vs-in-memory-filtering/01.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://www.eduardomotta.dev/posts/pushdown-queries-vs-in-memory-filtering">5x Faster, 160x Leaner: Benchmarking Pushdown Queries vs In-Memory Filtering</a>
+                <div>When I was recently tasked with scaling an existing read-heavy service, the architecture I encountered was straightforward: it stored Parquet files in...</div>
+                <div><i>01/06/2026</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="https://www.eduardomotta.dev/images/posts/object-storage-as-a-contract/01.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://www.eduardomotta.dev/posts/object-storage-as-a-contract">Object Storage as a data contract between services</a>
+                <div>Object storage is often introduced simply as a cheap place to put files. But in many data systems, it quietly becomes something much more important: t...</div>
+                <div><i>23/05/2026</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="https://www.eduardomotta.dev/images/posts/determinism-still-matters/01.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://www.eduardomotta.dev/posts/determinism-still-matters">Why determinism still matters in the age of AI</a>
+                <div>AI has completely changed what software teams can automate. Today, it can classify text, summarize documents, assist support teams, generate code, ans...</div>
+                <div><i>17/05/2026</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="https://www.eduardomotta.dev/images/posts/scaling-data-systems-2/01.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://www.eduardomotta.dev/posts/scaling-data-systems-2">Scaling data systems: Where things start to break</a>
+                <div>In a previous post, I described an architecture that processes millions of records per hour using Python, Kafka, PySpark, and Kubernetes.</div>
                 <div><i>10/05/2026</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fllrrbmswf2c7rdsawaow.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/emotta/scaling-data-systems-how-we-process-millions-of-records-with-python-1ib9">Scaling data systems: How we process millions of records with Python</a>
-                <div>Most people assume scaling data systems is just about performance. It's not. Processing millions...</div>
-                <div><i>04/05/2026</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F081qvi7mj4kikk2ggec7.jpg" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/emotta/user-authentication-with-javascript-and-express-a-practical-guide-3ni2">User Authentication with JavaScript and Express: A Practical Guide</a>
-                <div>Authentication is a critical aspect of building secure web applications that require user...</div>
-                <div><i>18/07/2023</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu1o5j54hk3pqbwnqggug.jpg" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/emotta/pandas-code-testing-101-a-beginners-guide-for-python-developers-449m">Pandas Code Testing 101: A Beginner’s Guide for Python Developers</a>
-                <div>Testing is a crucial step in software development. Every programming language has a myriad of tools...</div>
-                <div><i>08/03/2023</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi3sfpinzmdfadf80h6xq.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/emotta/how-to-use-firestore-with-redux-in-a-react-application-13bh">Maximize Your React Skills: Build a To-Do List App from...</a>
-                <div>In this blog post we’re going to go through everything you need to understand and build a basic React...</div>
-                <div><i>25/01/2023</i></div>
             </td>
         </tr>
 </table>

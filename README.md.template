@@ -1,3 +1,0 @@
-### My articles on [dev.to](https://dev.to/emotta):
-
-{{ template "article-table" .Articles }}
