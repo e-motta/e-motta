@@ -3,6 +3,14 @@
 
 <table>
         <tr>
+            <td width="300px"></td>
+            <td>
+                <a href="https://www.eduardomotta.dev/posts/making-long-running-pipelines-observable-as-first-class-processes">Observability starts with modeling pipeline runs</a>
+                <div>In data platforms, it is easy to confuse _business workflow state_ with _job execution state_.</div>
+                <div><i>02/08/2026</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://www.eduardomotta.dev/images/posts/building-predictable-software-with-ai-agents/01.png" alt="thumbnail"></td>
             <td>
                 <a href="https://www.eduardomotta.dev/posts/building-predictable-software-with-ai-agents">Building Predictable Software with AI Agents</a>
@@ -32,14 +40,6 @@
                 <a href="https://www.eduardomotta.dev/posts/determinism-still-matters">Why determinism still matters in the age of AI</a>
                 <div>AI has completely changed what software teams can automate. Today, it can classify text, summarize documents, assist support teams, generate code, ans...</div>
                 <div><i>17/05/2026</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="https://www.eduardomotta.dev/images/posts/scaling-data-systems-2/01.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://www.eduardomotta.dev/posts/scaling-data-systems-2">Scaling data systems: Where things start to break</a>
-                <div>In a previous post, I described an architecture that processes millions of records per hour using Python, Kafka, PySpark, and Kubernetes.</div>
-                <div><i>10/05/2026</i></div>
             </td>
         </tr>
 </table>
