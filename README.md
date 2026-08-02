@@ -5,7 +5,7 @@
         <tr>
             <td width="300px"></td>
             <td>
-                <a href="https://www.eduardomotta.dev/posts/making-long-running-pipelines-observable-as-first-class-processes">Observability starts with modeling pipeline runs</a>
+                <a href="https://www.eduardomotta.dev/posts/observability-starts-with-modeling-pipeline-runs">Observability starts with modeling pipeline runs</a>
                 <div>In data platforms, it is easy to confuse _business workflow state_ with _job execution state_.</div>
                 <div><i>02/08/2026</i></div>
             </td>
