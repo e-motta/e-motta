@@ -3,7 +3,7 @@
 
 <table>
         <tr>
-            <td width="300px"></td>
+            <td width="300px"><img src="https://www.eduardomotta.dev/images/posts/observability-starts-with-modeling-pipeline-runs/01.png" alt="thumbnail"></td>
             <td>
                 <a href="https://www.eduardomotta.dev/posts/observability-starts-with-modeling-pipeline-runs">Observability starts with modeling pipeline runs</a>
                 <div>In data platforms, it is easy to confuse _business workflow state_ with _job execution state_.</div>
